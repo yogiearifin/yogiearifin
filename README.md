@@ -7,7 +7,7 @@
 **<p>Full-time Weeb</p>**
 
 Some things about me:
-- Currently work on [Beam.co](https://www.linkedin.com/company/thebeamco)
+- Currently work at [Beam.co](https://www.linkedin.com/company/thebeamco)
 - Familiar with Web front-end stuff (HTML,CSS, JS) and Typescript
 - Other stacks: SASS, Tailwind, **React JS**
 - Reach me on [Linkedin](https://www.linkedin.com/company/thebeamco)
