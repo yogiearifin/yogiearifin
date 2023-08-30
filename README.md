@@ -1,12 +1,12 @@
 # ようこそ私のプロフィールへ 👋
 
-## Part-time Developer, Teacher, and Learner
-## Full-time Weeb
+** Part-time Developer, Teacher, and Learner**
+** Full-time Weeb**
 
-# Currently work on [Beam.co](https://www.linkedin.com/company/thebeamco)
-# Familiar with Web front-end stuff (HTML,CSS, JS) and Typescript
-# Other stacks: SASS, Tailwind, React JS
-# Reach me on [Linkedin](https://www.linkedin.com/company/thebeamco)
+Currently work on [Beam.co](https://www.linkedin.com/company/thebeamco)
+Familiar with Web front-end stuff (HTML,CSS, JS) and Typescript
+Other stacks: SASS, Tailwind, **React JS**
+Reach me on [Linkedin](https://www.linkedin.com/company/thebeamco)
 <!--
 **yogiearifin/yogiearifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
