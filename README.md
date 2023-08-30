@@ -1,7 +1,7 @@
 # ようこそ私のプロフィールへ 👋
 
 **<p>Part-time Developer, Teacher, and Learner</p>**
-**Full-time Weeb**
+**<p>Full-time Weeb</p>**
 
 - Currently work on [Beam.co](https://www.linkedin.com/company/thebeamco)
 - Familiar with Web front-end stuff (HTML,CSS, JS) and Typescript
