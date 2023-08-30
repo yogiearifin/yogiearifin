@@ -1,6 +1,6 @@
 # ようこそ私のプロフィールへ 👋
 
-**Part-time Developer, Teacher, and Learner**
+**<p>Part-time Developer, Teacher, and Learner</p>**
 **Full-time Weeb**
 
 - Currently work on [Beam.co](https://www.linkedin.com/company/thebeamco)
