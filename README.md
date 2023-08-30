@@ -11,6 +11,11 @@ Some things about me:
 - Familiar with Web front-end stuff (HTML,CSS, JS) and Typescript
 - Other stacks: SASS, Tailwind, **React JS**
 - Reach me on [Linkedin](https://www.linkedin.com/company/thebeamco)
+
+## Random Thought
+> Same things that make us laugh...make us cry..
+
+— Massive Miasma
 <!--
 **yogiearifin/yogiearifin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
