@@ -3,7 +3,7 @@
 **<p>Part-time Developer, Teacher, and Learner</p>**
 **<p>Full-time Weeb</p>**
 
-<p>Some things about me:</p>
+Some things about me:
 - Currently work on [Beam.co](https://www.linkedin.com/company/thebeamco)
 - Familiar with Web front-end stuff (HTML,CSS, JS) and Typescript
 - Other stacks: SASS, Tailwind, **React JS**
