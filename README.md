@@ -7,10 +7,10 @@
 **<p>Full-time Weeb</p>**
 
 Some things about me:
-- Currently work at [Beam.co](https://www.linkedin.com/company/thebeamco)
+- Currently work at <a href="https://www.linkedin.com/company/thebeamco" target="_blank">Beam.co</a>
 - Familiar with Web front-end stuff (HTML,CSS, JS) and Typescript
 - Other stacks: SASS, Tailwind, **React JS**
-- Reach me on [Linkedin](https://www.linkedin.com/company/thebeamco)
+- Reach me on <a href="https://www.linkedin.com/company/thebeamco" target="_blank">Linkedin</a>
 
 ## Random Thought
 > Same things that make us laugh...make us cry..
