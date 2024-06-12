@@ -7,7 +7,7 @@
 **<p>Full-time Weeb</p>**
 
 Some things about me:
-- Previously worked at <a href="https://www.linkedin.com/company/thebeamco" target="_blank">Beam.co</a>
+- Currently working in Appfuxion handling <a href="https://www.maybank.com/en/index.page">Maybank</a> as the client
 - Familiar with Web front-end stuff (HTML,CSS, JS) and Typescript
 - Other stacks: SASS, Tailwind, **React JS**, WebSocket, and many more.
 - Reach me on <a href="https://www.linkedin.com/company/thebeamco" target="_blank">Linkedin</a>
